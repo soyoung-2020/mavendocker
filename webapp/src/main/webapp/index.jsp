@@ -1,3 +1,3 @@
 <h1> Hello World </h1>
 
-<h2> Docker Deploy Testing with ansible </h2>
+<h2> Docker Deploy Testing with k8s </h2>
