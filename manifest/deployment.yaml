@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: my-hello-world-container
-        image: saria2020/java-hello-world
+        image: saria2020/my-hello-world
         ports:
         - containerPort: 8080
           protocol: TCP
